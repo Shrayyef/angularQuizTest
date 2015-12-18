@@ -175,6 +175,34 @@ div.result-item span.label {
   color: red;
 }
 
+div.chart {
+  height: 100px;
+  width: 100%;
+  margin-top: 25px;
+  border-left: 3px solid #475b62;
+  border-bottom: 3px solid #475b62;
+  position: relative;
+}
+
+span.chart {
+  position: absolute;
+  height: 40px;
+  width: 0%;
+  line-height: 40px;
+  display: block;
+  color: #475b62;
+}
+
+.correct-chart {
+  bottom: 5px;
+  background-color: green;
+}
+
+.false-chart {
+  bottom: 50px;
+  background-color: red;
+}
+
 
 
 

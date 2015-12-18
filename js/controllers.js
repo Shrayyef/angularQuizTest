@@ -86,6 +86,8 @@ loginController.controller('UserDashboard', ['$scope', '$cookies', '$rootScope',
 				$scope.correctAnswers++;
 			}
 		};
+		$scope.correctChart = ($scope.correctAnswers/10) * 100;
+		$scope.falseChart = ((10 - $scope.correctAnswers)/10) * 100;
 	}
 	
 }]);
