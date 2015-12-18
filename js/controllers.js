@@ -44,6 +44,7 @@ loginController.controller('QuizController', ['$scope', '$http', '$rootScope', '
             mytimeout = $timeout($scope.onTimeout,1000);
         }
         else {
+        	$scope.answer();
             $location.path('/dashboard');
         }
     }
