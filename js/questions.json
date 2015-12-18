@@ -1,0 +1,76 @@
+[{
+	"id": 0,
+	"question": "what is the capital of syria ?",
+	"options": ["damascus", "amman", "cairo"],
+	"answer": 0
+}, {
+	"id": 1,
+	"question": "what is the capital of jordan ?",
+	"options": ["damascus", "amman", "cairo"],
+	"answer": 1
+}, {
+	"id": 2,
+	"question": "what is the capital of Lebanon ?",
+	"options": ["damascus", "amman", "beirut"],
+	"answer": 2
+}, {
+	"id": 3,
+	"question": "what is the capital of Saudi Arabic ?",
+	"options": ["damascus", "riyad", "beirut"],
+	"answer": 1
+}, {
+	"id": 4,
+	"question": "what is the capital of Bahrain ?",
+	"options": ["manamah", "riyad", "beirut"],
+	"answer": 0
+}, {
+	"id": 5,
+	"question": "what is the color of orange ?",
+	"options": ["yellow", "red", "orange"],
+	"answer": 2
+}, {
+	"id": 6,
+	"question": "what is the color of bananah ?",
+	"options": ["orange", "red", "yellow"],
+	"answer": 2
+}, {
+	"id": 7,
+	"question": "what is the result of 6*8 ?",
+	"options": [43, 48, 23],
+	"answer": 1
+}, {
+	"id": 8,
+	"question": "what is the result of 1000-1000 ?",
+	"options": [0, 2000, 1000],
+	"answer": 0
+}, {
+	"id": 9,
+	"question": "what is the result of 1000/10 ?",
+	"options": [10, 1000, 100],
+	"answer": 2
+}, {
+	"id": 10,
+	"question": "what is the color of wood ?",
+	"options": ["brown", "red", "green"],
+	"answer": 0	
+}, {
+	"id": 11,
+	"question": "what is the color of steel ?",
+	"options": ["brown", "yellow", "grey"],
+	"answer": 2
+}, {
+	"id": 12,
+	"question": "what is the color of the sky ?",
+	"options": ["brown", "blue", "grey"],
+	"answer": 1	
+}, {
+	"id": 13,
+	"question": "what is the color of the sea ?",
+	"options": ["black", "magenta", "blue"],
+	"answer": 2	
+}, {
+	"id": 14,
+	"question": "what is the color of the sun ?",
+	"options": ["yellow", "magenta", "blue"],
+	"answer": 0		
+}]
